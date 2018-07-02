@@ -4,4 +4,3 @@ pipeline:
     commands: npm install
   test:
     image: node:latest
-
